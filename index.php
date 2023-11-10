@@ -7,7 +7,7 @@
 
 <h1> Hello Worl </h1>
 <!-- <?php
-    echo "Hello, World!";
+    echo "Hello, World";
 ?> -->
 
 </body>
