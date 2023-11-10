@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<h1> Hello World Faizan! </h1>
+<h1> Hello World Faizan </h1>
 <!-- <?php
     echo "Hello, World!";
 ?> -->
